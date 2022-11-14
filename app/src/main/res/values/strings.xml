@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Calory Counter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Hello">Привет!</string>
+    <string name="Hello_p">Для начала нам нужно, чтобы вы ввели данные, необходимые нам для рассчета вашей суточной нормы калорий</string>
+    <string name="selectGender">Выберите пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="selectGoal">Выберите цель</string>
+    <string name="goalKeep">Поддержание веса</string>
+    <string name="activityActive">Активный</string>
+    <string name="activityLow">Малоактивный</string>
+    <string name="activityVeryLow">Сидячий</string>
+    <string name="activityVeryLowTip">Деятельность преимущественно связана с работой за столом или рулем</string>
+    <string name="activityActiveTip">Деятельность предполагает интенсивные физические нагрузки</string>
+    <string name="activityLowTip">Деятельность предполагает временные физические нагрузки</string>
+    <string name="continueText">Продолжить</string>
+    <string name="selectWeightHeight">Укажите рост и вес</string>
+    <string name="weight">Вес</string>
+    <string name="height">Рост</string>
+    <string name="cm">см</string>
+    <string name="kg">кг</string>
+    <string name="selectActivity">Выберите образ жизни</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Дневник</string>
+    <string name="menu_gallery">Мои продукты</string>
+    <string name="menu_slideshow">Аналитика</string>
+    <string name="addMeal">Добавить прием пищи</string>
+    <string name="mealName">Название приема пищи</string>
+    <string name="save">Сохранить</string>
+    <string name="products">Продукты</string>
+    <string name="g">г</string>
+    <string name="calories">Калории</string>
+    <string name="proteins">Белки</string>
+    <string name="fats">Жиры</string>
+    <string name="carbohydrates">Углеводы</string>
+    <string name="addProduct">Добавить продукт</string>
+    <string name="for100g">на 100 г</string>
+    <string name="age">Возраст</string>
+    <string name="ages">лет</string>
+    <string name="loseWeight">Потеря веса</string>
+    <string name="saveWeight">Сохранение веса</string>
+    <string name="getWeight">Набор массы</string>
+    <string name="calories_tip">Вы сможете отредактировать это значение в приложении в дальнейшем</string>
+    <string name="recalculate">Пересчитать</string>
+    <string name="edit">Редактировать</string>
+    <string name="productName">Название продукта</string>
+</resources>
